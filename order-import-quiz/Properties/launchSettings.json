@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "order-import-quiz": {
+      "commandName": "Project",
+      "commandLineArgs": "clean"
+    }
+  }
+}
